@@ -1,0 +1,209 @@
+[
+  [
+    "0,0\n\n\n\nESC\n\n\n\n\n\n1",
+    "0,1\n\n\n\nF1\n\n\n\n\n\n11",
+    "0,2\n\n\n\nF2\n\n\n\n\n\n21",
+    "0,3\n\n\n\nF3\n\n\n\n\n\n31",
+    "0,4\n\n\n\nF4\n\n\n\n\n\n41",
+    "0,5\n\n\n\nF5\n\n\n\n\n\n51",
+    "0,6\n\n\n\nF6\n\n\n\n\n\n61",
+    "0,7\n\n\n\nF7\n\n\n\n\n\n71",
+    "0,8\n\n\n\nF8\n\n\n\n\n\n81",
+    "0,9\n\n\n\nF9\n\n\n\n\n\n91",
+    "0,10\n\n\n\nF10\n\n\n\n\n\n102",
+    "6,0\n\n\n\nF11\n\n\n\n\n\n7",
+    "6,1\n\n\n\nF12\n\n\n\n\n\n17",
+    "6,2\n\n\n\nF13/VOL+\n\n\n\n\n\n27",
+    "6,3\n\n\n\nF14/VOL-\n\n\n\n\n\n37",
+    {
+      "x": 0.25
+    },
+    "6,4\n\n\n\nF15\n\n\n\n\n\n47",
+    "6,5\n\n\n\nF16\n\n\n\n\n\n57",
+    "6,6\n\n\n\nF17\n\n\n\n\n\n67",
+    {
+      "x": 0.25
+    },
+    "6,10\n\n\n\nF18/CALC\n\n\n\n\n\n108",
+    "6,9\n\n\n\nSCRLLOCK\n\n\n\n\n\n97",
+    "6,8\n\n\n\nSearch/menu\n\n\n\n\n\n87",
+    "6,7\n\n\n\nLOCK\n\n\n\n\n\n101"
+  ],
+  [
+    "1,0\n\n\n\n`\n\n\n\n\n\n2",
+    "1,1\n\n\n\n1\n\n\n\n\n\n12",
+    "1,2\n\n\n\n2\n\n\n\n\n\n22",
+    "1,3\n\n\n\n3\n\n\n\n\n\n32",
+    "1,4\n\n\n\n4\n\n\n\n\n\n42",
+    "1,5\n\n\n\n5\n\n\n\n\n\n52",
+    "1,6\n\n\n\n6\n\n\n\n\n\n62",
+    "1,7\n\n\n\n7\n\n\n\n\n\n72",
+    "1,8\n\n\n\n8\n\n\n\n\n\n82",
+    "1,9\n\n\n\n9\n\n\n\n\n\n92",
+    "1,10\n\n\n\n0\n\n\n\n\n\n103",
+    "7,0\n\n\n\n-\n\n\n\n\n\n8",
+    "7,1\n\n\n\n=\n\n\n\n\n\n18",
+    {
+      "w": 2
+    },
+    "7,2\n\n\n\nBACKSPACE\n\n\n\n\n\n28",
+    {
+      "x": 0.25
+    },
+    "7,3\n\n\n\nINS\n\n\n\n\n\n38",
+    "7,4\n\n\n\nHOME\n\n\n\n\n\n48",
+    "7,5\n\n\n\nPGUP\n\n\n\n\n\n58",
+    {
+      "x": 0.25
+    },
+    "7,10\n\n\n\nNUMLOCK\n\n\n\n\n\n109",
+    "7,9\n\n\n\nSLASH\n\n\n\n\n\n98",
+    "7,8\n\n\n\n*\n\n\n\n\n\n88",
+    "7,7\n\n\n\n-\n\n\n\n\n\n78"
+  ],
+  [
+    {
+      "w": 1.5
+    },
+    "2,0\n\n\n\nTAB\n\n\n\n\n\n3",
+    "2,1\n\n\n\nQ\n\n\n\n\n\n13",
+    "2,2\n\n\n\nW\n\n\n\n\n\n23",
+    "2,3\n\n\n\nE\n\n\n\n\n\n33",
+    "2,4\n\n\n\nR\n\n\n\n\n\n43",
+    "2,5\n\n\n\nT\n\n\n\n\n\n53",
+    "2,6\n\n\n\nY\n\n\n\n\n\n63",
+    "2,7\n\n\n\nU\n\n\n\n\n\n73",
+    "2,8\n\n\n\nI\n\n\n\n\n\n83",
+    "2,9\n\n\n\nO\n\n\n\n\n\n93",
+    "2,10\n\n\n\nP\n\n\n\n\n\n104",
+    "8,0\n\n\n\n[\n\n\n\n\n\n9",
+    "8,1\n\n\n\n]\n\n\n\n\n\n19",
+    {
+      "w": 1.5
+    },
+    "8,2\n\n\n\n\\\n\n\n\n\n\n29",
+    {
+      "x": 0.25
+    },
+    "8,3\n\n\n\nDEL\n\n\n\n\n\n39",
+    "8,4\n\n\n\nEND\n\n\n\n\n\n49",
+    "8,5\n\n\n\nPGDN\n\n\n\n\n\n59",
+    {
+      "x": 0.25
+    },
+    "8,10\n\n\n\n7\n\n\n\n\n\n110",
+    "8,9\n\n\n\n8\n\n\n\n\n\n99",
+    "8,8\n\n\n\n9\n\n\n\n\n\n89",
+    {
+      "h": 2
+    },
+    "8,7\n\n\n\n+\n\n\n\n\n\n79"
+  ],
+  [
+    {
+      "w": 1.75
+    },
+    "3,0\n\n\n\nCAPS\n\n\n\n\n\n4",
+    "3,1\n\n\n\nA\n\n\n\n\n\n14",
+    "3,2\n\n\n\nS\n\n\n\n\n\n24",
+    "3,3\n\n\n\nD\n\n\n\n\n\n34",
+    "3,4\n\n\n\nF4\n\n\n\n\n\n44",
+    "3,5\n\n\n\nG\n\n\n\n\n\n54",
+    "3,6\n\n\n\nH\n\n\n\n\n\n64",
+    "3,7\n\n\n\nJ\n\n\n\n\n\n74",
+    "3,8\n\n\n\nK\n\n\n\n\n\n84",
+    "3,9\n\n\n\nL\n\n\n\n\n\n94",
+    "3,10\n\n\n\n;\n\n\n\n\n\n105",
+    "9,0\n\n\n\n\"\n\n\n\n\n\n10",
+    {
+      "w": 2.25
+    },
+    "9,1\n\n\n\nENTER\n\n\n\n\n\n20",
+    {
+      "x": 3.5
+    },
+    "8,6\n\n\n\n4\n\n\n\n\n\n69",
+    "9,9\n\n\n\n5\n\n\n\n\n\n100",
+    "7,6\n\n\n\n6\n\n\n\n\n\n68"
+  ],
+  [
+    {
+      "w": 2.25
+    },
+    "4,0\n\n\n\nSHIFT\n\n\n\n\n\n5",
+    "4,1\n\n\n\nZ\n\n\n\n\n\n15",
+    "4,2\n\n\n\nX\n\n\n\n\n\n25",
+    "4,3\n\n\n\nC\n\n\n\n\n\n35",
+    "4,4\n\n\n\nV\n\n\n\n\n\n45",
+    "4,5\n\n\n\nB\n\n\n\n\n\n55",
+    "4,6\n\n\n\nN\n\n\n\n\n\n65",
+    "4,7\n\n\n\nM\n\n\n\n\n\n75",
+    "4,8\n\n\n\n,\n\n\n\n\n\n85",
+    "4,9\n\n\n\n.\n\n\n\n\n\n95",
+    "4,10\n\n\n\nSLASH\n\n\n\n\n\n106",
+    {
+      "w": 2.75
+    },
+    "9,2\n\n\n\nSHIFT\n\n\n\n\n\n30",
+    {
+      "x": 1.25
+    },
+    "9,4\n\n\n\nUPARROW\n\n\n\n\n\n50",
+    {
+      "x": 1.25
+    },
+    "9,6\n\n\n\n1\n\n\n\n\n\n70",
+    "5,9\n\n\n\n2\n\n\n\n\n\n96",
+    "9,8\n\n\n\n3\n\n\n\n\n\n90",
+    {
+      "h": 2
+    },
+    "9,7\n\n\n\nENTER\n\n\n\n\n\n80"
+  ],
+  [
+    {
+      "w": 1.25
+    },
+    "5,0\n\n\n\nCTRL\n\n\n\n\n\n6",
+    {
+      "w": 1.25
+    },
+    "5,1\n\n\n\nSTART\n\n\n\n\n\n16",
+    {
+      "w": 1.25
+    },
+    "5,2\n\n\n\nALT\n\n\n\n\n\n26",
+    {
+      "w": 6.25
+    },
+    "5,3\n\n\n\nSPACE\n\n\n\n\n\n36",
+    {
+      "w": 1.25
+    },
+    "5,4\n\n\n\nALT\n\n\n\n\n\n46",
+    {
+      "w": 1.25
+    },
+    "5,5\n\n\n\nFN\n\n\n\n\n\n56",
+    {
+      "w": 1.25
+    },
+    "5,6\n\n\n\nSTART\n\n\n\n\n\n66",
+    {
+      "w": 1.25
+    },
+    "5,7\n\n\n\nCTRL\n\n\n\n\n\n76",
+    {
+      "x": 0.25
+    },
+    "9,3\n\n\n\nLEFTARROW\n\n\n\n\n\n40",
+    "9,5\n\n\n\nDOWNARROW\n\n\n\n\n\n60",
+    "5,10\n\n\n\nRIGHTARROW\n\n\n\n\n\n107",
+    {
+      "x": 0.25,
+      "w": 2
+    },
+    "9,10\n\n\n\n0\n\n\n\n\n\n111",
+    "5,8\n\n\n\n.\n\n\n\n\n\n86"
+  ]
+]

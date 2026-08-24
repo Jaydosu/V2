@@ -1,0 +1,245 @@
+** Drc report for V2.kicad_pcb **
+** Created on 2026-08-25T00:40:33 **
+** Report includes: Errors, Warnings **
+
+** Found 58 DRC violations **
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(451.7500 mm, 73.7700 mm): PTH pad [<no net>] of U1
+[padstack]: Padstack is questionable (PTH pad hole leaves no copper)
+    Local override; warning
+    @(451.7500 mm, 67.9900 mm): PTH pad [<no net>] of U1
+[lib_footprint_mismatch]: Footprint 'SW-TH_MSK12C02' does not match copy in library 'easyeda2kicad'
+    Local override; warning
+    @(425.5000 mm, 26.1965 mm): Footprint PWR_S1
+[lib_footprint_mismatch]: Footprint 'USB-C-SMD_HANBO_MC-121-L124' does not match copy in library 'easyeda2kicad'
+    Local override; warning
+    @(453.0000 mm, 70.8800 mm): Footprint U1
+[lib_footprint_mismatch]: Footprint 'SW-SMD_EC11J1525402' does not match copy in library 'easyeda2kicad'
+    Local override; warning
+    @(447.6750 mm, 38.1000 mm): Footprint SW67
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(420.1950 mm, 34.6700 mm): Reference field of D68
+    @(421.5400 mm, 35.5600 mm): Pad [<no net>] of SW76 on B.Mask and others
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(439.3500 mm, 45.6000 mm): Segment of U4 on B.Silkscreen
+    @(439.5500 mm, 45.2000 mm): PTH pad 1 [VBAT] of U4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Rule: ignore_u1_silk_clearance; warning
+    @(450.5000 mm, 75.3500 mm): Circle of U1 on B.Silkscreen
+    @(451.1900 mm, 75.2000 mm): PTH pad 13 [GND] of U1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(448.4615 mm, 63.4030 mm): Reference field of IC1
+    @(448.4615 mm, 63.4030 mm): Pad 9 [GND] of IC1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(448.4615 mm, 63.4030 mm): Reference field of IC1
+    @(448.7115 mm, 64.8000 mm): Pad 2 [+5V] of IC1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(448.4615 mm, 63.4030 mm): Reference field of IC1
+    @(448.2115 mm, 64.8000 mm): Pad 3 [VBAT] of IC1 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(435.5500 mm, 42.8000 mm): Segment of U4 on B.Silkscreen
+    @(439.5500 mm, 43.2000 mm): PTH pad 2 [GND] of U4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(442.0000 mm, 58.5000 mm): Reference field of U2
+    @(442.3950 mm, 57.1500 mm): NPTH pad of SW85
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(48.7200 mm, 34.6700 mm): Reference field of D1
+    @(50.0650 mm, 35.5600 mm): Pad [<no net>] of SW2 on B.Mask and others
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(330.1300 mm, 93.5000 mm): Pad 9 [ROW6] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(331.4000 mm, 93.5000 mm): Pad 10 [ROW7] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(319.9700 mm, 93.5000 mm): Pad 1 [ROW5] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(321.2400 mm, 93.5000 mm): Pad 2 [ROW4] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(322.5100 mm, 93.5000 mm): Pad 3 [ROW3] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(323.7800 mm, 93.5000 mm): Pad 4 [ROW2] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(325.0500 mm, 93.5000 mm): Pad 5 [GND] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(326.3200 mm, 93.5000 mm): Pad 6 [ROW1] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(327.5900 mm, 93.5000 mm): Pad 7 [Net-(U3B-P0.02/AIN0)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(315.5000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(328.8600 mm, 93.5000 mm): Pad 8 [ROW0] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(331.4000 mm, 106.5000 mm): Pad 26 [Net-(U3A-P0.18/RESET)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(330.1300 mm, 106.5000 mm): Pad 27 [+5V] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(328.8600 mm, 106.5000 mm): Pad 29 [D-] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(327.5900 mm, 106.5000 mm): Pad 31 [D+] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(326.3200 mm, 106.5000 mm): Pad 33 [COL5] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(325.0500 mm, 106.5000 mm): Pad 35 [COL3] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(323.7800 mm, 106.5000 mm): Pad 37 [/MCU/SWDIO] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(322.5100 mm, 106.5000 mm): Pad 39 [/MCU/SWDCLK] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(321.2400 mm, 106.5000 mm): Pad 41 [unconnected-(U3B-P0.09/NFC1-Pad41)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 106.5000 mm): Segment of U3 on B.Silkscreen
+    @(319.9700 mm, 106.5000 mm): Pad 43 [unconnected-(U3B-P0.10/NFC2-Pad43)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(182.0700 mm, 34.6700 mm): Reference field of D8
+    @(183.4150 mm, 35.5600 mm): Pad [<no net>] of SW9 on B.Mask and others
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 95.5600 mm): Pad 11 [Net-(U3B-P0.00/XL1)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 96.8300 mm): Pad 13 [Net-(U3B-P0.01/XL2)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 98.1000 mm): Pad 15 [COL9] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 99.3700 mm): Pad 17 [unconnected-(U3C-P1.09-Pad17)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 100.6400 mm): Pad 19 [+3.3V] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 101.9100 mm): Pad 21 [GND] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 103.1800 mm): Pad 23 [+3.3V] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(334.0000 mm, 93.5000 mm): Segment of U3 on B.Silkscreen
+    @(334.0000 mm, 104.4500 mm): Pad 25 [unconnected-(U3A-DCCH-Pad25)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(332.8000 mm, 95.5200 mm): Reference field of X1
+    @(334.0000 mm, 95.5600 mm): Pad 11 [Net-(U3B-P0.00/XL1)] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(332.8000 mm, 95.5200 mm): Reference field of X1
+    @(331.9000 mm, 96.1900 mm): Pad 12 [ROW8] of U3 on B.Cu
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(332.8000 mm, 95.5200 mm): Reference field of X1
+    @(334.0000 mm, 96.8300 mm): Pad 13 [Net-(U3B-P0.01/XL2)] of U3 on B.Cu
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(454.2500 mm, 66.4300 mm): Segment of U1 on B.Silkscreen
+    @(454.9000 mm, 66.2300 mm): Value field of R3 (5.1k)
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(454.2500 mm, 75.3200 mm): Segment of U1 on B.Silkscreen
+    @(454.9200 mm, 75.5250 mm): Footprint text of D96 (D96)
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(462.9000 mm, 75.3200 mm): Segment of U1 on B.Silkscreen
+    @(456.5700 mm, 77.5250 mm): Track [COL7] on B.Cu, length 28.5750 mm
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(462.9000 mm, 66.4300 mm): Segment of U1 on B.Silkscreen
+    @(456.5700 mm, 77.5250 mm): Track [COL7] on B.Cu, length 28.5750 mm
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(454.2500 mm, 66.4300 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(454.2500 mm, 66.4300 mm): Segment of U1 on B.Silkscreen
+    @(453.0000 mm, 68.2000 mm): Track [Net-(U1-CC1)] on B.Cu, length 2.3250 mm
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(454.2500 mm, 75.3200 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(452.4900 mm, 71.4500 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(452.4900 mm, 70.3100 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(451.9800 mm, 71.4500 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(451.9800 mm, 70.3100 mm): Segment of U1 on B.Silkscreen
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+[silk_overlap]: Silkscreen clearance
+    Rule: ignore_u1_silk_clearance; warning
+    @(447.0000 mm, 72.0000 mm): Reference field of U1
+    @(23.2000 mm, 24.2000 mm): Zone 'GROUND POUR B.CU' [GND] on B.Cu, priority 0
+
+** Found 0 unconnected pads **
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
