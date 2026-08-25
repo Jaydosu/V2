@@ -3975,7 +3975,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "6.8pF"
 			(at 190.5 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4019,7 +4019,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1685"
+		(property "LCSC Part" "C1679"
 			(at 186.69 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4827,7 +4827,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "6.8pF"
 			(at 177.8 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4871,7 +4871,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1685"
+		(property "LCSC Part" "C1679"
 			(at 173.99 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -4920,7 +4920,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "200k"
 			(at 148.59 134.6199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4964,7 +4964,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C22935"
+		(property "LCSC Part" "C25811"
 			(at 146.05 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5013,7 +5013,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1M"
+		(property "Value" "200k"
 			(at 148.59 121.9199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5057,7 +5057,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C22935"
+		(property "LCSC Part" "C25811"
 			(at 146.05 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -5173,7 +5173,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b885a52a-2cfb-441b-a724-13775ef8e9bf")
-		(property "Reference" "RST_S1"
+		(property "Reference" "JDBG1"
 			(at 129.54 48.2599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5276,7 +5276,7 @@
 		(instances
 			(project "V2"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/5a1195dd-ea1d-43d8-8bdb-0580149b420e"
-					(reference "RST_S1")
+					(reference "JDBG1")
 					(unit 1)
 				)
 			)
