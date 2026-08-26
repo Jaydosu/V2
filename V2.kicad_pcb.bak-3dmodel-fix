@@ -4643,7 +4643,7 @@
 			(uuid "7f29f503-c3ff-4091-a5b0-f5ecb0110ab3")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SW-SMD_EC11J1525402-L15.0-W18.0-H24.5-P2.5.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SW-SMD_EC11J1525402-L15.0-W18.0-H24.5-P2.5.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -24610,7 +24610,7 @@
 			(uuid "2bf617b8-20e2-4892-a1cd-b1e15539b42a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/LED0805-RD.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/LED0805-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -90793,7 +90793,7 @@
 			(uuid "12bd0dfd-53d7-4579-a6ff-5a3f2cc94f80")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -90804,7 +90804,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SOT-23-5_L2.9-W1.6-P0.95-LS2.8-BL.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91088,7 +91088,7 @@
 			(uuid "9feabbd8-acaf-4d51-8c92-90c1f1b9df0e")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/HDR-TH_4P-P2.54-M-LI-1X4P.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/HDR-TH_4P-P2.54-M-LI-1X4P.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -91099,7 +91099,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/HDR-TH_4P-P2.54-M-LI-1X4P.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/HDR-TH_4P-P2.54-M-LI-1X4P.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -99019,7 +99019,7 @@
 			(uuid "129081b0-35e6-4d6e-991b-c3be8233e3a4")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/TDFN-8_L3.0-W2.0-H0.8-P0.50.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/TDFN-8_L3.0-W2.0-H0.8-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -99030,7 +99030,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/TDFN-8_L3.0-W2.0-H0.8-P0.50.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/TDFN-8_L3.0-W2.0-H0.8-P0.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -105060,7 +105060,7 @@
 			(uuid "82c4565e-8f3f-4c7a-96bc-07c9bbc19fbf")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/USB-C-SMD_HANBO_MC-121-L124.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/USB-C-SMD_HANBO_MC-121-L124.step"
 			(offset
 				(xyz 0 -1.6 0)
 			)
@@ -105071,7 +105071,7 @@
 				(xyz -0 -0 -0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/USB-C-SMD_HANBO_MC-121-L124.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/USB-C-SMD_HANBO_MC-121-L124.step"
 			(offset
 				(xyz 0 -1.6 0)
 			)
@@ -105482,7 +105482,7 @@
 			(uuid "4f01ccb3-32b9-4732-851e-7ed6a94d5a4f")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SW-SMD_3P-L6.6-W2.7-LS7.8-P1.50.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/SW-SMD_3P-L6.6-W2.7-LS7.8-P1.50.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -105493,7 +105493,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SW-SMD_3P-L6.6-W2.7-LS7.8-P1.50.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SW-SMD_3P-L6.6-W2.7-LS7.8-P1.50.step"
 			(offset
 				(xyz 0 -0.5 0)
 			)
@@ -106104,7 +106104,7 @@
 			(uuid "bf089e6b-a6f5-40d2-822e-856b0734cb8b")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SMA_L4.2-W2.6-LS5.3-RD.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/SMA_L4.2-W2.6-LS5.0-RD_1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -106115,7 +106115,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SMA_L4.2-W2.6-LS5.3-RD.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SMA_L4.2-W2.6-LS5.3-RD.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -106894,7 +106894,7 @@
 			(uuid "ae1ffdcf-aa1a-4fdb-9d39-dbb91a7aadb7")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/CONN-TH_HR-PH2.0-WI-2P.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/CONN-TH_HR-PH2.0-WI-2P.step"
 			(offset
 				(xyz 1 0 0)
 			)
@@ -106905,7 +106905,7 @@
 				(xyz -0 -0 -180)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/CONN-TH_HR-PH2.0-WI-2P.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/CONN-TH_HR-PH2.0-WI-2P.step"
 			(offset
 				(xyz 1 0 0)
 			)
@@ -107848,7 +107848,7 @@
 			(uuid "a84c5292-7235-4382-8d01-bb2cde62a1d1")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SW-SMD_L3.9-W2.9-H2.0-LS4.8.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -109809,7 +109809,7 @@
 			(uuid "e5bf7d1a-3f0c-44ea-a26c-5858c8b0e808")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -109820,7 +109820,7 @@
 				(xyz 0 0 270)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SOT-23-6_L2.9-W1.6-H1.5-LS2.8-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -117827,7 +117827,7 @@
 			(uuid "efcf7edf-4cd8-4936-b952-765f595e497a")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/CRYSTAL-SMD_L3.2-W1.5-1.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/CRYSTAL-SMD_L3.2-W1.5-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -117838,7 +117838,7 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/CRYSTAL-SMD_L3.2-W1.5-1.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/CRYSTAL-SMD_L3.2-W1.5-1.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -121251,7 +121251,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/WIRELM-SMD_L18.0-W13.0-H3.0-E73-2G4M08S1C.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/WIRELM-SMD_L18.0-W13.0-H3.0-E73-2G4M08S1C.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -124394,7 +124394,7 @@
 			(uuid "3754af5f-c9ca-45a0-be2e-4027c7238ddc")
 		)
 		(embedded_fonts no)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
+		(model "C:/Users/yn9073/Documents/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -124405,7 +124405,7 @@
 				(xyz 0 0 180)
 			)
 		)
-		(model "${KIPRJMOD}/3dmodels/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
+		(model "C:/Users/super/Documents/extracurricular/keyboard/footprints etc/easyeda2kicad/easyeda2kicad.3dshapes/SOT-23-3P_L2.9-W1.3-H1.0-LS2.4-P0.95.step"
 			(offset
 				(xyz 0 0 0)
 			)
