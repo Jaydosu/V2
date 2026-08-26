@@ -3209,12 +3209,6 @@
 		(uuid "0230b049-7ad1-4e53-b459-1f4f96b238fc")
 	)
 	(junction
-		(at 64.77 83.82)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "094745f7-8155-46c1-bc7e-4dcf8cef9c57")
-	)
-	(junction
 		(at 86.36 96.52)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3245,7 +3239,7 @@
 		(uuid "20fa8104-a6a8-487e-90f8-fdd390b6affb")
 	)
 	(junction
-		(at 173.99 104.14)
+		(at 182.88 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "25310d70-5aa8-40f7-a098-da53f8f17dd0")
@@ -3281,13 +3275,19 @@
 		(uuid "3d12d53c-4943-4005-89bc-ddcbac495018")
 	)
 	(junction
-		(at 173.99 102.87)
+		(at 139.7 120.65)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ba7ccbd-de6d-4599-a0f1-23acbc12c7e3")
+	)
+	(junction
+		(at 182.88 102.87)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4e3c8e4d-22e9-43e2-9bf1-e5cd531f4e4d")
 	)
 	(junction
-		(at 154.94 104.14)
+		(at 163.83 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "57517d40-84d0-4619-a7d1-3698cf494fdc")
@@ -3296,7 +3296,7 @@
 		(at 198.12 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "61de79c2-4a23-4b4f-9031-f278d0c076b8")
+		(uuid "5ed466d6-541a-481e-aaa9-8338f2f72edf")
 	)
 	(junction
 		(at 59.69 83.82)
@@ -3311,7 +3311,7 @@
 		(uuid "712e63e6-ecb5-4663-b45b-5e3289bbd4f6")
 	)
 	(junction
-		(at 160.02 120.65)
+		(at 168.91 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "75e0bcaf-721e-4866-ae17-d6ea2d866756")
@@ -3371,7 +3371,7 @@
 		(uuid "adf3f7ab-eb51-46d9-affd-b71629756e81")
 	)
 	(junction
-		(at 160.02 104.14)
+		(at 168.91 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0da684f-e4bc-49ab-ba61-2d0bbebc3097")
@@ -3431,7 +3431,7 @@
 		(uuid "def40ec6-1e2a-40a9-aecd-2f636a192eef")
 	)
 	(junction
-		(at 154.94 120.65)
+		(at 163.83 120.65)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e77046f9-815e-4cff-9232-86e185f53ef0")
@@ -3447,12 +3447,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f3c276c1-aa30-49b0-b980-b45aca73b333")
-	)
-	(junction
-		(at 139.7 120.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f71bd264-a38b-4af2-872a-fdd7a0e431a6")
 	)
 	(no_connect
 		(at 64.77 96.52)
@@ -3514,7 +3508,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 104.14) (xy 173.99 104.14)
+			(xy 168.91 104.14) (xy 182.88 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3574,7 +3568,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 120.65) (xy 160.02 120.65)
+			(xy 163.83 120.65) (xy 168.91 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3634,7 +3628,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 114.3) (xy 154.94 120.65)
+			(xy 163.83 114.3) (xy 163.83 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3671,16 +3665,6 @@
 			(type default)
 		)
 		(uuid "31606b3d-b446-4c55-a9b4-d33fe47e3596")
-	)
-	(wire
-		(pts
-			(xy 64.77 83.82) (xy 87.63 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "34651e80-1103-4b9b-905d-62a20f92b42a")
 	)
 	(wire
 		(pts
@@ -3724,7 +3708,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 104.14) (xy 154.94 106.68)
+			(xy 163.83 104.14) (xy 163.83 106.68)
 		)
 		(stroke
 			(width 0)
@@ -3824,7 +3808,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 102.87) (xy 173.99 104.14)
+			(xy 182.88 102.87) (xy 182.88 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3994,7 +3978,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 104.14) (xy 220.98 104.14)
+			(xy 182.88 104.14) (xy 220.98 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4354,7 +4338,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 104.14) (xy 160.02 109.22)
+			(xy 168.91 104.14) (xy 168.91 109.22)
 		)
 		(stroke
 			(width 0)
@@ -4414,7 +4398,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 111.76) (xy 160.02 120.65)
+			(xy 168.91 111.76) (xy 168.91 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4454,7 +4438,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 120.65) (xy 198.12 120.65)
+			(xy 168.91 120.65) (xy 198.12 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4574,7 +4558,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 100.33) (xy 173.99 102.87)
+			(xy 182.88 100.33) (xy 182.88 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4584,7 +4568,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 102.87) (xy 173.99 102.87)
+			(xy 179.07 102.87) (xy 182.88 102.87)
 		)
 		(stroke
 			(width 0)
@@ -4624,7 +4608,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 104.14) (xy 154.94 104.14)
+			(xy 133.35 104.14) (xy 163.83 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4674,7 +4658,7 @@
 	)
 	(wire
 		(pts
-			(xy 154.94 104.14) (xy 160.02 104.14)
+			(xy 163.83 104.14) (xy 168.91 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4684,7 +4668,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 120.65) (xy 154.94 120.65)
+			(xy 139.7 120.65) (xy 163.83 120.65)
 		)
 		(stroke
 			(width 0)
@@ -4744,7 +4728,7 @@
 	)
 	(global_label "VBAT"
 		(shape input)
-		(at 173.99 100.33 0)
+		(at 182.88 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4754,7 +4738,7 @@
 		)
 		(uuid "4def942e-8325-4760-8199-597049c8da1e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.39 100.33 0)
+			(at 190.28 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5327,7 +5311,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 170.18 102.87 0)
+		(at 179.07 102.87 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5338,7 +5322,7 @@
 		(fields_autoplaced yes)
 		(uuid "246df797-678a-46b0-9995-60585413e20a")
 		(property "Reference" "#FLG03"
-			(at 170.18 100.965 0)
+			(at 179.07 100.965 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5349,7 +5333,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 170.18 97.79 0)
+			(at 179.07 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5359,7 +5343,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 170.18 102.87 0)
+			(at 179.07 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5370,7 +5354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 170.18 102.87 0)
+			(at 179.07 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5381,7 +5365,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 170.18 102.87 0)
+			(at 179.07 102.87 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5405,7 +5389,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 154.94 110.49 0)
+		(at 163.83 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5415,7 +5399,7 @@
 		(dnp no)
 		(uuid "28a1dfc4-2bd7-46b2-916d-72a4a439dd9c")
 		(property "Reference" "C2"
-			(at 148.082 108.966 0)
+			(at 156.972 108.966 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5426,7 +5410,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 146.812 111.506 0)
+			(at 155.702 111.506 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5437,7 +5421,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 155.9052 114.3 0)
+			(at 164.7952 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5448,7 +5432,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 154.94 110.49 0)
+			(at 163.83 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5459,7 +5443,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 154.94 110.49 0)
+			(at 163.83 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5470,7 +5454,7 @@
 			)
 		)
 		(property "LCSC Part" "C19666"
-			(at 154.94 110.49 0)
+			(at 163.83 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6090,7 +6074,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:S2B-PH-K-S")
-		(at 165.1 110.49 0)
+		(at 173.99 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6101,7 +6085,7 @@
 		(fields_autoplaced yes)
 		(uuid "87a2dfe1-d834-416d-a35a-a55f70aac7fc")
 		(property "Reference" "U4"
-			(at 171.45 109.2199 0)
+			(at 180.34 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6112,7 +6096,7 @@
 			)
 		)
 		(property "Value" "S2B-PH-K-S"
-			(at 171.45 111.7599 0)
+			(at 180.34 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6123,7 +6107,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_S2B-PH-K-S-LF-SN"
-			(at 165.1 119.38 0)
+			(at 173.99 119.38 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6134,7 +6118,7 @@
 			)
 		)
 		(property "Datasheet" "https://lcsc.com/product-detail/PH-Connectors_JST-Sales-America_S2B-PH-K-S-LF-SN_JST-Sales-America-S2B-PH-K-S-LF-SN_C173752.html"
-			(at 165.1 121.92 0)
+			(at 173.99 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6145,7 +6129,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 165.1 110.49 0)
+			(at 173.99 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6156,7 +6140,7 @@
 			)
 		)
 		(property "Manufacturer" "JST"
-			(at 165.1 124.46 0)
+			(at 173.99 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6167,7 +6151,7 @@
 			)
 		)
 		(property "MPN" "S2B-PH-K-S(LF)(SN)"
-			(at 165.1 127 0)
+			(at 173.99 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6178,7 +6162,7 @@
 			)
 		)
 		(property "LCSC Part" "C173752"
-			(at 165.1 129.54 0)
+			(at 173.99 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
