@@ -39,9 +39,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.8,
-          "height": 1.27,
-          "width": 1.27
+          "drill": 0.9,
+          "height": 0.9,
+          "width": 0.9
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -83,14 +83,6 @@
         ],
         [
           "annular_width|451750000|73770000|0efd53f5-7d2d-4721-91a6-4781ce932e88|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_edge_clearance|425650000|23600000|c4062959-2540-40da-bc8f-6fae26d08ea6|5d003abe-b3ec-4ee6-8429-0b7c1e3613a4",
-          ""
-        ],
-        [
-          "silk_edge_clearance|426930000|23600000|c4062959-2540-40da-bc8f-6fae26d08ea6|f10a5b12-b2ec-4f6b-a624-0bc85f5f1507",
           ""
         ],
         [
@@ -586,7 +578,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.4,
         "tuning_profile": "",
-        "via_diameter": 0.5,
+        "via_diameter": 0.6,
         "via_drill": 0.3
       }
     ],
@@ -616,7 +608,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "V2.3.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

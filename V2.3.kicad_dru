@@ -1,0 +1,13 @@
+(version 1)
+(rule "hotswap_switch_self_hole_clearance"
+    (condition "A.Reference == B.Reference && A.Reference == 'SW*'")
+    (constraint hole_clearance (min 0.006in)))
+(rule "usbc_self_hole_clearance"
+    (condition "A.Reference == B.Reference && A.Reference == 'U1'")
+    (constraint hole_clearance (min 0.2mm)))
+(rule "fine_pitch_clearance"
+    (condition "A.Reference == B.Reference && (A.Reference == 'IC1' || A.Reference == 'USBC1' || A.Reference == 'U2')")
+    (constraint clearance (min 0.1mm)))
+(rule "ignore_u1_silk_clearance"
+    (condition "A.Reference == 'U1' || B.Reference == 'U1'")
+    (constraint silk_clearance (min 0mm)))

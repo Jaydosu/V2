@@ -1519,36 +1519,34 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "easyeda2kicad:MSK12C02"
+		(symbol "easyeda2kicad:MST-12D18G4SPDTSLIDESWITCH"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "SW74"
-				(at -1.2699 -7.62 90)
+			(property "Reference" "SW"
+				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
-			(property "Value" "MSK12C02"
-				(at -3.8099 -7.62 90)
+			(property "Value" "MST-12D18G4 SPDT SLIDE SWITCH"
+				(at 0 -7.62 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify right)
 				)
 			)
-			(property "Footprint" "easyeda2kicad:SW-TH_MSK12C02"
-				(at 0 -8.89 0)
+			(property "Footprint" "easyeda2kicad:SW-SMD_MST-12D18G4-SPDT-SLIDE-SWITCH"
+				(at 0 -10.16 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1558,8 +1556,8 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://lcsc.com/product-detail/Toggle-Switches_SHOU-HAN-MSK12C02_C431540.html"
-				(at 0 -11.43 0)
+			(property "Datasheet" "https://www.lcsc.com/datasheet/C49023767.pdf"
+				(at 0 -12.7 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1581,7 +1579,7 @@
 				)
 			)
 			(property "Manufacturer" "SHOU HAN(首韩)"
-				(at 0 -13.97 0)
+				(at 0 -15.24 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1591,8 +1589,8 @@
 					)
 				)
 			)
-			(property "MPN" "MSK12C02"
-				(at 0 -16.51 0)
+			(property "MPN" "MST-12D18G4 SPDT Slide Switch"
+				(at 0 -17.78 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1602,8 +1600,8 @@
 					)
 				)
 			)
-			(property "LCSC Part" "C431540"
-				(at 0 -19.05 0)
+			(property "LCSC Part" "C49023767"
+				(at 0 -20.32 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -1613,21 +1611,10 @@
 					)
 				)
 			)
-			(property "ki_keywords" "Slide Switches"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "MSK12C02_0_1"
+			(symbol "MST-12D18G4SPDTSLIDESWITCH_0_1"
 				(rectangle
-					(start -10.16 1.27)
-					(end 5.08 -6.35)
+					(start -5.08 0.76)
+					(end -2.54 0)
 					(stroke
 						(width 0)
 						(type default)
@@ -1638,7 +1625,7 @@
 				)
 				(polyline
 					(pts
-						(xy -7.62 1.27) (xy -7.62 -0.51)
+						(xy -3.81 0.76) (xy -4.06 1.52)
 					)
 					(stroke
 						(width 0)
@@ -1650,7 +1637,7 @@
 				)
 				(polyline
 					(pts
-						(xy -7.62 -0.51) (xy -7.62 -1.27)
+						(xy -3.81 0.76) (xy -3.56 1.52)
 					)
 					(stroke
 						(width 0)
@@ -1662,7 +1649,7 @@
 				)
 				(polyline
 					(pts
-						(xy -7.62 -1.27) (xy -7.87 -0.51)
+						(xy -3.81 0.76) (xy -3.81 2.29) (xy 1.27 2.29) (xy 1.27 0.76)
 					)
 					(stroke
 						(width 0)
@@ -1672,23 +1659,9 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy -7.62 -1.27) (xy -7.37 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -4.32 -1.27) (xy -3.05 -1.27) (xy -3.05 -2.54) (xy 1.78 -2.54) (xy 1.78 -1.27) (xy 3.3 -1.27)
-						(xy 3.3 -3.81) (xy -4.57 -3.81) (xy -4.57 -1.27) (xy -4.32 -1.27)
-					)
+				(rectangle
+					(start 0 0.76)
+					(end 2.54 0)
 					(stroke
 						(width 0)
 						(type default)
@@ -1699,7 +1672,7 @@
 				)
 				(polyline
 					(pts
-						(xy -3.81 -1.27) (xy -4.06 -0.51)
+						(xy 1.27 2.03) (xy 1.27 3.3) (xy 6.35 3.3) (xy 6.35 0.76)
 					)
 					(stroke
 						(width 0)
@@ -1711,7 +1684,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.76 -5.33) (xy 0.76 -5.33)
+						(xy 1.27 0.76) (xy 1.02 1.52)
 					)
 					(stroke
 						(width 0)
@@ -1723,7 +1696,30 @@
 				)
 				(polyline
 					(pts
-						(xy -0.51 -5.59) (xy 0.51 -5.59)
+						(xy 1.27 0.76) (xy 1.52 1.52)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 5.08 0.76)
+					(end 7.62 0)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 6.35 0.76) (xy 6.1 1.52)
 					)
 					(stroke
 						(width 0)
@@ -1735,7 +1731,7 @@
 				)
 				(polyline
 					(pts
-						(xy -0.25 -5.84) (xy 0.25 -5.84)
+						(xy 6.35 0.76) (xy 6.6 1.52)
 					)
 					(stroke
 						(width 0)
@@ -1745,105 +1741,9 @@
 						(type none)
 					)
 				)
-				(polyline
-					(pts
-						(xy 0 1.27) (xy 0 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 0.51) (xy -3.81 0.51) (xy -3.81 -1.27) (xy -3.56 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -0.51) (xy 0 -1.27)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy -0.25 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -1.27) (xy 0.25 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 1.27) (xy 2.54 -1.27) (xy 2.79 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -1.27) (xy 2.29 -0.51)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 -3.81) (xy 4.06 -3.81) (xy 4.06 -4.83) (xy 0 -4.83) (xy 0 -5.33)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -7.62 6.35 270)
-					(length 5.08)
+				(pin unspecified line
+					(at -3.81 -2.54 90)
+					(length 2.54)
 					(name "1"
 						(effects
 							(font
@@ -1859,9 +1759,9 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 0 6.35 270)
-					(length 5.08)
+				(pin unspecified line
+					(at 1.27 -2.54 90)
+					(length 2.54)
 					(name "2"
 						(effects
 							(font
@@ -1877,9 +1777,9 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 2.54 6.35 270)
-					(length 5.08)
+				(pin unspecified line
+					(at 6.35 -2.54 90)
+					(length 2.54)
 					(name "3"
 						(effects
 							(font
@@ -1888,24 +1788,6 @@
 						)
 					)
 					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin unspecified line
-					(at 10.16 -1.27 180)
-					(length 5.08)
-					(name "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3389,12 +3271,6 @@
 		(uuid "bd4c77d4-b6c1-4dbc-89fb-2c3c8bb6ea75")
 	)
 	(junction
-		(at 257.81 100.33)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c2e43f4b-2c5e-4ac8-91d0-9258aae13073")
-	)
-	(junction
 		(at 229.87 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3748,16 +3624,6 @@
 	)
 	(wire
 		(pts
-			(xy 247.65 52.07) (xy 247.65 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4792bba0-124c-4a79-89ff-7e165583a635")
-	)
-	(wire
-		(pts
 			(xy 198.12 78.74) (xy 213.36 78.74)
 		)
 		(stroke
@@ -3828,7 +3694,7 @@
 	)
 	(wire
 		(pts
-			(xy 250.19 100.33) (xy 257.81 100.33)
+			(xy 252.73 100.33) (xy 257.81 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3885,6 +3751,16 @@
 			(type default)
 		)
 		(uuid "684d468a-354c-49af-87d4-fb34f5e158d7")
+	)
+	(wire
+		(pts
+			(xy 252.73 50.8) (xy 252.73 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6acdaaec-5594-4307-905e-b421b906351a")
 	)
 	(wire
 		(pts
@@ -4268,7 +4144,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 52.07) (xy 247.65 52.07)
+			(xy 233.68 68.58) (xy 247.65 68.58)
 		)
 		(stroke
 			(width 0)
@@ -4478,7 +4354,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 52.07) (xy 233.68 114.3)
+			(xy 233.68 68.58) (xy 233.68 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4628,16 +4504,6 @@
 	)
 	(wire
 		(pts
-			(xy 257.81 43.18) (xy 257.81 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f701dee1-4052-4b91-9d93-131b8eb8dfb4")
-	)
-	(wire
-		(pts
 			(xy 267.97 104.14) (xy 271.78 104.14)
 		)
 		(stroke
@@ -4668,6 +4534,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 50.8) (xy 247.65 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb7d9220-49e3-4d53-b623-5004055ef623")
+	)
+	(wire
+		(pts
 			(xy 139.7 120.65) (xy 163.83 120.65)
 		)
 		(stroke
@@ -4678,7 +4554,7 @@
 	)
 	(wire
 		(pts
-			(xy 240.03 50.8) (xy 229.87 50.8)
+			(xy 229.87 50.8) (xy 242.57 50.8)
 		)
 		(stroke
 			(width 0)
@@ -4715,16 +4591,6 @@
 			(type default)
 		)
 		(uuid "ff7a7c35-2979-4813-9207-544d7f8c370c")
-	)
-	(wire
-		(pts
-			(xy 250.19 50.8) (xy 250.19 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ff8a9c98-58ba-4bc2-b8ff-b9ca0ec5eba2")
 	)
 	(global_label "VBAT"
 		(shape input)
@@ -4907,7 +4773,7 @@
 			(uuid "7f6af19b-194c-4a11-8f9b-cdeadbff28dd")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "R3")
 					(unit 1)
@@ -4984,7 +4850,7 @@
 			(uuid "8c59d786-7a6c-46e6-8fd8-63c0fbbec05a")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#PWR03")
 					(unit 1)
@@ -5097,7 +4963,7 @@
 			(uuid "7d3b0ff3-58d2-463f-bf27-11c623e68cc3")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "D201")
 					(unit 1)
@@ -5210,7 +5076,7 @@
 			(uuid "da7750c2-3029-417e-b1f9-d8b3817c47b6")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "LED1")
 					(unit 1)
@@ -5301,7 +5167,7 @@
 			(uuid "368d51c9-5bae-41e3-a83d-e6b15037c411")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "R1")
 					(unit 1)
@@ -5379,7 +5245,7 @@
 			(uuid "fa616552-585b-4bf7-a611-0845530f742d")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#FLG03")
 					(unit 1)
@@ -5471,7 +5337,7 @@
 			(uuid "f3cbe3d0-9cbf-4ddd-ac7d-033a01af79bf")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "C2")
 					(unit 1)
@@ -5589,7 +5455,7 @@
 			(uuid "3f0dd5da-f826-4ecf-9ef5-025f4dd43b56")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "Q1")
 					(unit 1)
@@ -5667,7 +5533,7 @@
 			(uuid "a008a875-b70a-4eef-b2f9-78953d33e6d9")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#PWR02")
 					(unit 1)
@@ -5865,7 +5731,7 @@
 			(uuid "f697ba72-af1a-43d0-b527-ec865fd64199")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "IC1")
 					(unit 1)
@@ -5987,7 +5853,7 @@
 			(uuid "be13d508-5774-4572-b081-e9d8490d7101")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "U2")
 					(unit 1)
@@ -6064,7 +5930,7 @@
 			(uuid "14b7f60b-85d0-433b-ab4d-ace075a72249")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#FLG01")
 					(unit 1)
@@ -6179,7 +6045,7 @@
 			(uuid "6e6a670c-1d53-405b-8827-cb67594b38bd")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "U4")
 					(unit 1)
@@ -6271,7 +6137,7 @@
 			(uuid "20348348-6b80-4eab-a0ed-363e55dbc71d")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "C4")
 					(unit 1)
@@ -6362,7 +6228,7 @@
 			(uuid "37cad2f7-e239-4387-b059-bac43ebff65a")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "R4")
 					(unit 1)
@@ -6371,9 +6237,8 @@
 		)
 	)
 	(symbol
-		(lib_id "easyeda2kicad:MSK12C02")
-		(at 247.65 44.45 0)
-		(mirror x)
+		(lib_id "easyeda2kicad:MST-12D18G4SPDTSLIDESWITCH")
+		(at 246.38 48.26 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6381,31 +6246,30 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "abdb7695-5ab1-4b21-be44-4be81678a6ec")
-		(property "Reference" "PWR_S1"
-			(at 246.3801 36.83 90)
+		(fields_autoplaced yes)
+		(uuid "a4382a67-735b-418c-81f6-58b133587b1a")
+		(property "Reference" "SW112"
+			(at 247.65 40.64 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "MSK12C02"
-			(at 243.8401 36.83 90)
+		(property "Value" "MST-12D18G4 SPDT SLIDE SWITCH"
+			(at 247.65 43.18 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Footprint" "easyeda2kicad:SW-TH_MSK12C02"
-			(at 247.65 35.56 0)
+		(property "Footprint" "easyeda2kicad:SW-SMD_MST-12D18G4-SPDT-SLIDE-SWITCH"
+			(at 246.38 58.42 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6415,8 +6279,8 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://lcsc.com/product-detail/Toggle-Switches_SHOU-HAN-MSK12C02_C431540.html"
-			(at 247.65 33.02 0)
+		(property "Datasheet" "https://www.lcsc.com/datasheet/C49023767.pdf"
+			(at 246.38 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6427,7 +6291,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 247.65 44.45 0)
+			(at 246.38 48.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6438,7 +6302,7 @@
 			)
 		)
 		(property "Manufacturer" "SHOU HAN(首韩)"
-			(at 247.65 30.48 0)
+			(at 246.38 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6448,8 +6312,8 @@
 				)
 			)
 		)
-		(property "MPN" "MSK12C02"
-			(at 247.65 27.94 0)
+		(property "MPN" "MST-12D18G4 SPDT Slide Switch"
+			(at 246.38 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6459,8 +6323,8 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C431540"
-			(at 247.65 25.4 0)
+		(property "LCSC Part" "C49023767"
+			(at 246.38 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6469,23 +6333,20 @@
 					(size 1.27 1.27)
 				)
 			)
-		)
-		(pin "2"
-			(uuid "c953f161-7594-4736-9049-c36c26a935e2")
-		)
-		(pin "1"
-			(uuid "17a434e3-ac66-4a35-a7c9-b619a046102e")
-		)
-		(pin "4"
-			(uuid "bbbfec49-4bcc-4a22-9361-3f3dc8d0337f")
 		)
 		(pin "3"
-			(uuid "0b662c24-1caa-4426-b1a1-873876fd2c8b")
+			(uuid "962cfaf3-6dd6-4d2b-988b-68c9dbab5e49")
+		)
+		(pin "1"
+			(uuid "f58c170a-a050-44ff-92b3-b571a3646797")
+		)
+		(pin "2"
+			(uuid "935c9de1-d455-49a5-a2e7-3be808445c30")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
-					(reference "PWR_S1")
+					(reference "SW112")
 					(unit 1)
 				)
 			)
@@ -6576,7 +6437,7 @@
 			(uuid "1994cc3d-99fe-4573-8ef9-3153fffd06dd")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "C1")
 					(unit 1)
@@ -6701,7 +6562,7 @@
 			(uuid "d4968a88-ea4b-4cf2-808f-03955fca4d05")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "D111")
 					(unit 1)
@@ -6794,7 +6655,7 @@
 			(uuid "eb47dc0c-aa61-42d9-85d3-d234c68afeac")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "R5")
 					(unit 1)
@@ -6872,7 +6733,7 @@
 			(uuid "4d42d0c7-39ad-46f2-990f-6db28ea878a9")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#FLG02")
 					(unit 1)
@@ -7020,7 +6881,7 @@
 			(uuid "70b776cd-1c49-439b-965a-36284f1adc3b")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "U1")
 					(unit 1)
@@ -7098,7 +6959,7 @@
 			(uuid "b1fd2e91-eff0-4d1e-9594-379b77a76234")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#PWR01")
 					(unit 1)
@@ -7191,7 +7052,7 @@
 			(uuid "c9ab1512-f19d-4408-a0dc-04fcd347abba")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "R2")
 					(unit 1)
@@ -7284,7 +7145,7 @@
 			(uuid "a64bb49f-4f78-4d9a-a6c4-55f32c411e6d")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "C3")
 					(unit 1)
@@ -7363,7 +7224,7 @@
 			(uuid "aced95cf-47a4-48e3-bb45-51086434717e")
 		)
 		(instances
-			(project "V2"
+			(project "V2.3"
 				(path "/85bcdc0c-8dc1-43cb-ba77-3dcf7ad94591/d7d5c39e-2bba-40e3-928a-00399b022351"
 					(reference "#FLG04")
 					(unit 1)
